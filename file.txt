@@ -1,4 +1,8 @@
 This is first line added to master branch
-This is second line modified on master branch
+<<<<<<< HEAD
+This is second line modified on feature branch
+=======
+This is second line modified on feature branch
+>>>>>>> feature
 This is third line added to master branch
 This is fourth line added to master branch
